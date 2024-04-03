@@ -1,0 +1,10 @@
+/* JavaScript clock*/
+div#jsClock {
+	/*width: 40%;
+	margin: auto;*/
+	background-color: #27292E;
+	padding: 50px;
+	text-align: center;
+	color: #7AB2C4;
+	font-size: 2em;
+}
